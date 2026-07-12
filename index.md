@@ -1,143 +1,144 @@
-# 隱私權政策
+# Privacy Policy
 
-**適用 App：Nmhrgk**
+**Applies to: Nmhrgk**
 
-**生效日期：2026 年 6 月 8 日**
-**最後更新：2026 年 6 月 8 日**
+**Effective date: June 8, 2026**
+**Last updated: June 8, 2026**
 
-ChaoJen（以下稱「我們」）尊重並保護您的隱私。本隱私權政策說明當您使用 Nmhrgk 行動應用程式（以下稱「本 App」）時，我們如何蒐集、使用、儲存與分享您的個人資料，以及您所擁有的權利。
+ChaoJen ("we," "us," or "our") respects and protects your privacy. This Privacy Policy explains how we collect, use, store, and share your personal data when you use the Nmhrgk mobile application (the "App"), as well as the rights you have.
 
-當您下載、註冊或使用本 App，即表示您已閱讀並同意本政策的內容。若您不同意，請停止使用本 App。
-
----
-
-## 一、我們蒐集的資料
-
-### 1. 帳號與身分識別資料
-您透過 Google 或 Apple 登入時，我們會經由 Firebase Authentication 取得並儲存：
-- 唯一使用者識別碼（UID）
-- 電子郵件地址
-- 登入服務提供的顯示名稱與頭像（如有）
-
-當您使用「以 Apple 登入」並選擇隱藏電子郵件時，我們僅會取得 Apple 提供的代轉寄信箱。
-
-### 2. 個人檔案資料
-您主動建立或編輯的內容：
-- 顯示名稱、使用者名稱（username）
-- 大頭貼／頭像照片
-- 自我介紹
-
-### 3. 使用內容資料
-您於使用本 App 時建立的資料：
-- 唱題／冥想紀錄（時間、時長、歷程）
-- 祈求目標（標題、內容、公開或私人設定）
-- 共戰夥伴關係（您與其他使用者建立的好友連結）
-
-### 4. 相機與相簿
-- **相簿／照片**：當您設定頭像時，本 App 會在您授權後存取相簿以選取照片。
-- **相機**：當您掃描共戰夥伴的 QR Code 以加入好友時，本 App 會在您授權後使用相機。
-
-我們僅在您主動使用上述功能時存取，且不會在背景持續存取相機或相簿。
-
-### 5. 購買資訊
-本 App 提供進階訂閱。實際付款由 Apple App Store 或 Google Play 處理，我們**不會**蒐集或儲存您的信用卡或付款帳戶資訊。我們僅會接收訂閱狀態（是否有效、到期時間）以提供對應功能。
-
-### 6. 裝置與使用分析資料
-我們透過 Firebase Analytics 蒐集去識別化的使用統計，可能包括：
-- 裝置型號、作業系統版本、語言與地區設定
-- App 使用行為（開啟次數、功能使用、當機事件等）
-- 概略地區（由 IP 推估，不含精確定位）
-
-### 7. 廣告識別碼（如適用）
-在 iOS 上，本 App 可能會依《App 追蹤透明度》（ATT）詢問您的同意後，存取廣告識別碼（IDFA）以提供個人化廣告。您可選擇拒絕，且可隨時於系統「設定」中變更。
+By downloading, registering for, or using the App, you acknowledge that you have read and agree to this Policy. If you do not agree, please stop using the App.
 
 ---
 
-## 二、我們如何使用您的資料
+## 1. Information We Collect
 
-我們將蒐集的資料用於：
-- 提供、維運與改善本 App 的核心功能（登入、紀錄、目標、共戰夥伴等）
-- 在您與共戰夥伴之間，依您的公開設定顯示個人檔案與公開目標
-- 處理與驗證您的訂閱狀態
-- 分析使用情形以改善產品體驗與穩定性
-- 透過 Firebase App Check 防止濫用、保護後端資源安全
-- 於取得您同意時提供個人化廣告
-- 遵循適用法律與回應合法請求
+### 1.1 Account and Identity Information
+When you sign in with Google or Apple, we obtain and store the following through Firebase Authentication:
+- Unique user identifier (UID)
+- Email address
+- Display name and avatar provided by the sign-in service (if available)
 
-我們**不會**將您的個人資料出售給第三方。
+When you use "Sign in with Apple" and choose to hide your email address, we only receive the relay email address provided by Apple.
+
+### 1.2 Profile Information
+Content you actively create or edit:
+- Display name and username
+- Profile picture / avatar
+- Bio / self-introduction
+
+### 1.3 User Content
+Data you create while using the App:
+- Chanting / meditation records (time, duration, history)
+- Prayer goals (title, content, public or private setting)
+- Companion relationships (friend connections you establish with other users)
+
+### 1.4 Camera and Photos
+- **Photo library**: When you set an avatar, the App accesses your photo library, with your permission, to let you select a photo.
+- **Camera**: When you scan a companion's QR code to add them as a friend, the App uses the camera with your permission.
+
+We only access these features when you actively use them, and we do not access the camera or photo library continuously in the background.
+
+### 1.5 Purchase Information
+The App offers premium subscriptions. Payments are processed by the Apple App Store or Google Play, and we do **not** collect or store your credit card or payment account information. We only receive your subscription status (whether it is active and its expiration date) in order to provide the corresponding features.
+
+### 1.6 Device and Usage Analytics
+We collect de-identified usage statistics through Firebase Analytics, which may include:
+- Device model, operating system version, language, and region settings
+- App usage behavior (number of launches, feature usage, crash events, etc.)
+- Approximate region (estimated from IP address, without precise location)
+
+### 1.7 Advertising Identifier (if applicable)
+On iOS, the App may access the advertising identifier (IDFA) to provide personalized ads after requesting your consent in accordance with App Tracking Transparency (ATT). You may decline, and you can change this at any time in the system Settings.
 
 ---
 
-## 三、第三方服務
+## 2. How We Use Your Information
 
-本 App 使用以下第三方服務，您的部分資料會由這些服務處理。建議您一併參閱其隱私權政策：
+We use the information we collect to:
+- Provide, operate, and improve the core features of the App (sign-in, records, goals, companions, etc.)
+- Display your profile and public goals to your companions according to your privacy settings
+- Process and verify your subscription status
+- Analyze usage to improve product experience and stability
+- Prevent abuse and protect the security of backend resources through Firebase App Check
+- Provide personalized ads where you have given consent
+- Comply with applicable laws and respond to lawful requests
 
-| 服務 | 用途 | 隱私權政策 |
+We do **not** sell your personal data to third parties.
+
+---
+
+## 3. Third-Party Services
+
+The App uses the following third-party services, and some of your data will be processed by them. We recommend that you also review their privacy policies:
+
+| Service | Purpose | Privacy Policy |
 | --- | --- | --- |
-| Google Firebase（Authentication、Firestore、Storage、Analytics、App Check） | 帳號驗證、資料儲存、分析、安全防護 | https://firebase.google.com/support/privacy |
-| Google 登入 | 第三方登入 | https://policies.google.com/privacy |
-| Apple 登入 | 第三方登入 | https://www.apple.com/legal/privacy/ |
-| Apple App Store／Google Play 帳務 | 處理訂閱付款 | Apple／Google 各自之隱私權政策 |
+| Google Firebase (Authentication, Firestore, Storage, Analytics, App Check) | Account authentication, data storage, analytics, security | https://firebase.google.com/support/privacy |
+| Sign in with Google | Third-party sign-in | https://policies.google.com/privacy |
+| Sign in with Apple | Third-party sign-in | https://www.apple.com/legal/privacy/ |
+| Apple App Store / Google Play billing | Processing subscription payments | Respective privacy policies of Apple / Google |
+| Google AdMob | Displaying and personalizing ads | https://support.google.com/admob/answer/6128543 |
 
 ---
 
-## 四、資料分享與揭露
+## 4. Data Sharing and Disclosure
 
-我們僅在下列情形分享您的資料：
-- **經您同意或依您的設定**：例如您將目標設為「公開」，則您的共戰夥伴可看見該目標；您的個人檔案（顯示名稱、使用者名稱、頭像、自我介紹）對可搜尋或與您互為夥伴的使用者可見。
-- **服務供應商**：如上述第三方服務，僅在提供服務所必要的範圍內處理資料。
-- **法律要求**：為遵循法律、法院命令或政府主管機關之合法要求。
-
----
-
-## 五、資料儲存與保留
-
-- 您的資料儲存於 Google Firebase 的伺服器，相關設施可能位於您所在國家／地區以外。
-- 我們在您帳號存續期間保留您的資料。
-- 當您刪除帳號後，我們將於合理期間內刪除或匿名化您的個人資料，但法律要求保留者除外。
+We only share your data in the following circumstances:
+- **With your consent or according to your settings**: For example, if you set a goal to "public," your companions can see that goal; your profile (display name, username, avatar, bio) is visible to users who can search for you or who are your companions.
+- **Service providers**: Such as the third-party services described above, which process data only to the extent necessary to provide their services.
+- **Legal requirements**: To comply with the law, a court order, or a lawful request from a government authority.
 
 ---
 
-## 六、資料安全
+## 5. Data Storage and Retention
 
-我們採取合理的技術與管理措施保護您的資料，包括傳輸加密（HTTPS）、Firestore 安全規則的欄位驗證與存取控制，以及 Firebase App Check。惟請理解，沒有任何網路傳輸或儲存方式能保證百分之百安全。
-
----
-
-## 七、您的權利
-
-您對自己的個人資料享有下列權利：
-- **存取與更正**：您可於 App 內檢視並修改個人檔案資料。
-- **刪除**：您可於 App 內刪除您建立的紀錄、目標，或刪除整個帳號。帳號刪除後相關個人資料將一併移除。
-- **撤回同意**：您可於系統「設定」中變更相機、相簿、追蹤等授權。
-
-如需協助行使上述權利，請透過下方聯絡方式與我們聯繫。
+- Your data is stored on Google Firebase servers, and the related facilities may be located outside your country or region.
+- We retain your data for as long as your account exists.
+- After you delete your account, we will delete or anonymize your personal data within a reasonable period, except where retention is required by law.
 
 ---
 
-## 八、兒童隱私
+## 6. Data Security
 
-本 App 並非以未滿 13 歲（或您所在地區法律規定之最低年齡）之兒童為對象。我們不會在知情下蒐集兒童的個人資料。若您認為兒童在未經同意下提供了個人資料，請與我們聯繫，我們將儘速刪除。
-
----
-
-## 九、國際資料傳輸
-
-由於我們使用的雲端服務（Google Firebase）可能於多個國家／地區運作，您的資料可能被傳輸並儲存至您所在地以外的伺服器。使用本 App 即表示您同意此類傳輸。
+We take reasonable technical and administrative measures to protect your data, including encryption in transit (HTTPS), field validation and access control through Firestore Security Rules, and Firebase App Check. However, please understand that no method of transmission over the internet or method of storage can be guaranteed to be 100% secure.
 
 ---
 
-## 十、政策變更
+## 7. Your Rights
 
-我們可能不時更新本隱私權政策。當有重大變更時，我們會於本頁面更新「最後更新」日期，並在適當情況下於 App 內通知您。建議您定期檢視本政策。
+You have the following rights regarding your personal data:
+- **Access and correction**: You can view and modify your profile information within the App.
+- **Deletion**: You can delete the records and goals you created within the App, or delete your entire account. When you delete your account, the associated personal data is removed as well.
+- **Withdrawal of consent**: You can change camera, photo library, tracking, and other permissions in the system Settings.
+
+To exercise these rights, please contact us using the information below.
 
 ---
 
-## 十一、聯絡我們
+## 8. Children's Privacy
 
-若您對本隱私權政策有任何疑問、意見或請求，歡迎透過以下方式與我們聯繫：
+The App is not intended for children under the age of 13 (or the minimum age required by the laws of your region). We do not knowingly collect personal data from children. If you believe that a child has provided personal data without consent, please contact us and we will delete it as soon as possible.
 
-- **電子郵件**：chao.jen.main@gmail.com
-- **營運者／開發者**：ChaoJen
+---
+
+## 9. International Data Transfers
+
+Because the cloud services we use (Google Firebase) may operate in multiple countries or regions, your data may be transferred to and stored on servers outside your location. By using the App, you consent to such transfers.
+
+---
+
+## 10. Changes to This Policy
+
+We may update this Privacy Policy from time to time. When there are material changes, we will update the "Last updated" date on this page and, where appropriate, notify you within the App. We recommend that you review this Policy periodically.
+
+---
+
+## 11. Contact Us
+
+If you have any questions, comments, or requests regarding this Privacy Policy, please contact us:
+
+- **Email**: chao.jen.main@gmail.com
+- **Operator / Developer**: ChaoJen
 
 ---
