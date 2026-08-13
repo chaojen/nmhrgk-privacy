@@ -3,7 +3,7 @@
 **Applies to: Nmhrgk**
 
 **Effective date: June 8, 2026**
-**Last updated: June 8, 2026**
+**Last updated: August 14, 2026**
 
 ChaoJen ("we," "us," or "our") respects and protects your privacy. This Privacy Policy explains how we collect, use, store, and share your personal data when you use the Nmhrgk mobile application (the "App"), as well as the rights you have.
 
@@ -32,9 +32,30 @@ Data you create while using the App:
 - Chanting / meditation records (time, duration, history)
 - Prayer goals (title, content, public or private setting)
 - Companion relationships (friend connections you establish with other users)
+- Chanting group membership and your contribution to a group's total
+
+#### Community feed
+
+The App includes a **public** feed. Anything you post there is visible to every signed-in user of the App — not only to your companions:
+
+- Posts and replies (plain text; posts up to 500 characters, replies up to 300)
+- Photos and videos attached to a post (up to five photos, or one video)
+- Likes you give, which are visible as a count on the post
+
+Bookmarks are the exception: the posts and comments you save are private to you and are not shown to anyone else.
+
+Posting and replying require an account linked to Sign in with Apple or Google. You can delete your own posts and comments at any time; deleting one also deletes its attached media and the likes, replies, and reports associated with it.
+
+#### Safety-related data
+
+To keep the feed usable we also store:
+
+- **Reports** you file about a post, comment, or user, including the reason you select and any note you write. Your identity as the reporter is never disclosed to the person you reported.
+- **Your block list**. Blocking is private — the blocked user is not notified.
+- **Moderation outcomes for your own account**: whether posting is currently suspended, until when, and which guideline clause was cited. This is visible only to you, and it never appears on your public profile.
 
 ### 1.4 Camera and Photos
-- **Photo library**: When you set an avatar, the App accesses your photo library, with your permission, to let you select a photo.
+- **Photo library**: When you set an avatar, add a photo to a goal or chanting group, or attach photos or a video to a post, the App opens the system photo picker so you can choose what to upload. Only the items you pick are uploaded — the App does not read the rest of your library.
 - **Camera**: When you scan a companion's QR code to add them as a friend, the App uses the camera with your permission.
 
 We only access these features when you actively use them, and we do not access the camera or photo library continuously in the background.
@@ -58,6 +79,8 @@ On iOS, the App may access the advertising identifier (IDFA) to provide personal
 We use the information we collect to:
 - Provide, operate, and improve the core features of the App (sign-in, records, goals, companions, etc.)
 - Display your profile and public goals to your companions according to your privacy settings
+- Publish the posts, replies, and media you choose to share in the community feed, and rank them in the feed's "Latest" and "Popular" views
+- Review reported content against our published Community Guidelines, and, where a report is upheld, hide the content and suspend the author's ability to post
 - Process and verify your subscription status
 - Analyze usage to improve product experience and stability
 - Prevent abuse and protect the security of backend resources through Firebase App Check
@@ -65,6 +88,14 @@ We use the information we collect to:
 - Comply with applicable laws and respond to lawful requests
 
 We do **not** sell your personal data to third parties.
+
+### 2.1 Machine translation of community content
+
+Posts and profile bios can be translated on demand. When a reader taps "Translate," the **text** of that post or bio is sent from our servers to **Google Vertex AI (Gemini)**, which returns a translation. We cache the result so that the same text is not sent again for other readers of the same language.
+
+Only the text is sent. Photos, videos, and your account identity are not included. Translation happens only when a reader asks for it — nothing is sent automatically when you publish. The language of a post is detected the same way, using the post text alone.
+
+Content that has been hidden following a report is never translated, and its cached translations are deleted.
 
 ---
 
@@ -75,6 +106,7 @@ The App uses the following third-party services, and some of your data will be p
 | Service | Purpose | Privacy Policy |
 | --- | --- | --- |
 | Google Firebase (Authentication, Firestore, Storage, Analytics, App Check) | Account authentication, data storage, analytics, security | https://firebase.google.com/support/privacy |
+| Google Vertex AI (Gemini) | Translating post text and profile bios on request | https://cloud.google.com/terms/cloud-privacy-notice |
 | Sign in with Google | Third-party sign-in | https://policies.google.com/privacy |
 | Sign in with Apple | Third-party sign-in | https://www.apple.com/legal/privacy/ |
 | Apple App Store / Google Play billing | Processing subscription payments | Respective privacy policies of Apple / Google |
@@ -86,6 +118,7 @@ The App uses the following third-party services, and some of your data will be p
 
 We only share your data in the following circumstances:
 - **With your consent or according to your settings**: For example, if you set a goal to "public," your companions can see that goal; your profile (display name, username, avatar, bio) is visible to users who can search for you or who are your companions.
+- **Publicly, when you post to the community feed**: posts, replies, attached photos and videos, and your display name, username, and avatar shown alongside them are visible to every signed-in user of the App. Please treat anything you post there as public.
 - **Service providers**: Such as the third-party services described above, which process data only to the extent necessary to provide their services.
 - **Legal requirements**: To comply with the law, a court order, or a lawful request from a government authority.
 
@@ -109,7 +142,7 @@ We take reasonable technical and administrative measures to protect your data, i
 
 You have the following rights regarding your personal data:
 - **Access and correction**: You can view and modify your profile information within the App.
-- **Deletion**: You can delete the records and goals you created within the App, or delete your entire account. When you delete your account, the associated personal data is removed as well.
+- **Deletion**: You can delete the records, goals, posts, and comments you created within the App, or delete your entire account. Deleting a post or comment also removes its attached photos and videos. When you delete your account, the associated personal data — including your posts, comments, uploaded media, and block list — is removed as well.
 - **Withdrawal of consent**: You can change camera, photo library, tracking, and other permissions in the system Settings.
 
 To exercise these rights, please contact us using the information below.
